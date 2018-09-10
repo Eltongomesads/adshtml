@@ -1,0 +1,10 @@
+<head>
+<html>
+<script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"> </script>
+<head>
+<html>
+<amp-auto-ads type="adsense"
+
+              data-ad-client="ca-pub-4004453437394880">
+
+</amp-auto-ads>
